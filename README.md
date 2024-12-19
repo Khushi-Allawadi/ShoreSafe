@@ -41,7 +41,6 @@ npm start
 
 Screenshots
 ![WhatsApp Image 2024-12-06 at 11 10 07](https://github.com/user-attachments/assets/44e54c82-c6ba-408a-88af-1417679da01b)
-![WhatsApp Image 2024-12-06 at 11 10 07](https://github.com/user-attachments/assets/c3166a05-c713-4d1c-a5d1-2f12e8d28c60)
 
 
 
